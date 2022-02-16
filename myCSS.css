@@ -9,6 +9,7 @@ body {
 .container {
 	width: 960px;
 	margin: 0 auto;
+	background:#4D291F; 
 }
 .header {
 	background: #5291A1;
@@ -30,7 +31,6 @@ body {
 }
 .skills {
 	text-align: left;
-text color: red;
 }
 .content {
 	background: #EEEEEE;
