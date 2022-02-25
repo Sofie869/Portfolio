@@ -42,7 +42,7 @@ body {
 .footer {
 	background: #777777;
 	margin: 0px;
-	float: bottom;
+	float: left;
 	width: 100%;
 	height: 50px;
 	text-align: center;
