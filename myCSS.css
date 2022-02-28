@@ -1,12 +1,11 @@
 @charset "UTF-8";
 /* This is a comment! Text here will be ignored by the browser. */
 body {
-     font: 100%/1.4. fantasy;
+     font-family: fantasy;
      background-color: #FFFFFF;
      margin: 0;
      padding: 0;
      color: #000;
-font-family: Marker Felt, fantasy;
 }
 
 a:link {
