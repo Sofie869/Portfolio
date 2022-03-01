@@ -12,10 +12,10 @@ a:link {
      color: #000000;
 }
 a:visited {
-     color: #00000;
+     color: #000;
 }
 a:hover, a:active, a:focus { 
-     color: #42B4BF;
+     color: #369199;
 }
 
 .homePage {
